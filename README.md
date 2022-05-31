@@ -1,6 +1,8 @@
 # MS-MSDT-0-day-Office-RCE-Follina
 Pre-Created document xml files for creating the Documents required for PoC MSDT Follina
 
+Big Thanks to https://gist.github.com/tothi from whom I got the information from. 
+
 **Using pre-created xml file process**
 DOCX Creation
 0. Open Document.xml.rels and replace "Target="XXXXXXXXXXXXXXXXXXXXX.html!" with your hosted remote doc.

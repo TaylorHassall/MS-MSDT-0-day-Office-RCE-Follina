@@ -5,6 +5,7 @@ Pre-Created document xml files for creating the Documents required for PoC MSDT 
 
 **Using pre-created xml file process**
 DOCX Creation
+
 0. Open Document.xml.rels and replace "Target="XXXXXXXXXXXXXXXXXXXXX.html!" with your hosted remote doc.
 1. Create a Docx file.
 2. In the Docx file, Insert > Object > Bitmap Image > Ok

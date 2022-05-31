@@ -1,7 +1,7 @@
 # MS-MSDT-0-day-Office-RCE-Follina
 Pre-Created document xml files for creating the Documents required for PoC MSDT Follina
 
-Big Thanks to https://gist.github.com/tothi from whom I got the information from. 
+**Big Thanks to https://gist.github.com/tothi from whom this information comes from. I just re-wrote it for myself. Please give all praise to Tothi (https://twitter.com/an0n_r0)**
 
 **Using pre-created xml file process**
 DOCX Creation
